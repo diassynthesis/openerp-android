@@ -1,20 +1,24 @@
+TRADUCTION GOOGLE ....
+======================
+
+
 openerp-android
 ===============
 
 android_sms
 -----------
 
- 手机短消息交互,在OpenERP中起交互对象.让OpenERP基本对象可以直接操作短消息数据.
+Interaction de message court de téléphone portable dans les objets interactifs OpenERP Les objets de base OpenERP peuvent directement manipuler des données de messages courts.
 
 
 android_picking_vcode_scan
 --------------------------
 
- 手机扫描产品一,二维码入库模块.
+ Produits de numérisation de téléphones mobiles, module de stockage de code bidimensionnel.
 
 
 android_account_move_takephoto
 -------------------------
 
- 手机拍照财务原始凭证.
+Bon d'origine financier photo de téléphone portable photo.
 
